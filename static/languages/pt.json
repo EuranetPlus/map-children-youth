@@ -1,12 +1,12 @@
 {
   "heading": "Crianças e jovens em toda a Europa em 2022",
-  "subheading": "Percentagem geral da população dos países europeus com menos de 24 anos. Média da UE-27: 25,5%",
+  "subheading": "Percentagem geral da população nos países europeus com menos de 24 anos. Média da UE-27: 25,5%",
   "legend1": "Não há dados disponíveis",
   "tooltip1": "da população",
   "textSourceDescription": "Fonte",
   "textSource": "Eurostat",
   "textNoteDescription": "Observação",
-  "textNote": "O Eurostat é o serviço de estatística da União Europeia, responsável pela publicação de estatísticas e indicadores de elevada qualidade à escala europeia que permitem comparações entre países e regiões.",
+  "textNote": "O Eurostat é o serviço de estatística da União Europeia, responsável pela publicação de estatísticas e indicadores de alta qualidade a nível europeu que permitem comparações entre países e regiões.",
   "textDataAccess": "Acesse os dados",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00010/default/table?lang=en",
   "textCountryClick": "Clique para mais informações"

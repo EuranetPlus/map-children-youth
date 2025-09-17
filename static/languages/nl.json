@@ -6,7 +6,7 @@
   "textSourceDescription": "Bron",
   "textSource": "Eurostat",
   "textNoteDescription": "Opmerking",
-  "textNote": "Eurostat is het statistische bureau van de Europese Unie, verantwoordelijk voor het publiceren van hoogwaardige Europese statistieken en indicatoren die vergelijkingen tussen landen en regio's mogelijk maken.",
+  "textNote": "Eurostat is het statistische bureau van de Europese Unie. Het is verantwoordelijk voor het publiceren van hoogwaardige statistieken en indicatoren op Europees niveau, die vergelijkingen tussen landen en regio's mogelijk maken.",
   "textDataAccess": "Toegang tot de gegevens",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00010/default/table?lang=en",
   "textCountryClick": "Klik voor meer informatie"

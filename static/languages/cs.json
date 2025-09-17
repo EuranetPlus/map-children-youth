@@ -1,13 +1,13 @@
 {
-  "heading": "Děti a mládež v Evropě v roce 2022",
-  "subheading": "Obecné procento populace v evropských zemích mladších 24 let. Průměr EU-27: 25,5 %",
-  "legend1": "Nejsou k dispozici žádné údaje",
+  "heading": "Děti a mládež v celé Evropě v roce 2022",
+  "subheading": "Celkové procento populace v evropských zemích mladší 24 let. Průměr EU-27: 25,5 %",
+  "legend1": "Nejsou k dispozici žádná data",
   "tooltip1": "populace",
   "textSourceDescription": "Zdroj",
   "textSource": "Eurostat",
   "textNoteDescription": "Poznámka",
-  "textNote": "Eurostat je statistický úřad Evropské unie odpovědný za zveřejňování vysoce kvalitních celoevropských statistik a ukazatelů, které umožňují srovnání mezi zeměmi a regiony.",
+  "textNote": "Eurostat je statistický úřad Evropské unie, který je zodpovědný za publikování vysoce kvalitních celoevropských statistik a ukazatelů, jež umožňují srovnání mezi zeměmi a regiony.",
   "textDataAccess": "Přístup k datům",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00010/default/table?lang=cs",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00010/default/table?lang=en",
   "textCountryClick": "Klikněte pro více informací"
 }

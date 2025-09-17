@@ -1,13 +1,13 @@
 {
-  "heading": "Vaikai ir jaunimas visoje Europoje 2022 m",
-  "subheading": "Bendras jaunesnių nei 24 metų amžiaus gyventojų procentas Europos šalyse. ES-27 vidurkis: 25,5 proc.",
+  "heading": "Vaikai ir jaunimas visoje Europoje 2022 m.",
+  "subheading": "Bendras jaunesnių nei 24 metų gyventojų procentas Europos šalyse. ES-27 vidurkis: 25,5 %",
   "legend1": "Nėra duomenų",
   "tooltip1": "gyventojų",
   "textSourceDescription": "Šaltinis",
   "textSource": "Eurostatas",
   "textNoteDescription": "Pastaba",
-  "textNote": "Eurostatas yra Europos Sąjungos statistikos tarnyba, atsakinga už aukštos kokybės visos Europos statistikos ir rodiklių, leidžiančių palyginti šalis ir regionus, skelbimą.",
-  "textDataAccess": "Pasiekite duomenis",
+  "textNote": "„Eurostat“ yra Europos Sąjungos statistikos tarnyba, atsakinga už aukštos kokybės visos Europos statistikos ir rodiklių, leidžiančių palyginti šalis ir regionus, skelbimą.",
+  "textDataAccess": "Prieiga prie duomenų",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00010/default/table?lang=en",
   "textCountryClick": "Spustelėkite norėdami gauti daugiau informacijos"
 }

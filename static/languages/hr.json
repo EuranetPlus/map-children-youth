@@ -1,13 +1,13 @@
 {
-  "heading": "Djeca i mladi diljem Europe 2022",
-  "subheading": "Opći postotak stanovništva u europskim zemljama mlađeg od 24 godine. EU-27 prosjek: 25,5%",
+  "heading": "Djeca i mladi diljem Europe u 2022. godini",
+  "subheading": "Opći postotak stanovništva u europskim zemljama mlađeg od 24 godine. Prosjek EU-27: 25,5%",
   "legend1": "Nema dostupnih podataka",
   "tooltip1": "stanovništva",
   "textSourceDescription": "Izvor",
   "textSource": "Eurostat",
   "textNoteDescription": "Bilješka",
-  "textNote": "Eurostat je statistički ured Europske unije, odgovoran za objavljivanje visokokvalitetnih europskih statistika i pokazatelja koji omogućuju usporedbu između zemalja i regija.",
-  "textDataAccess": "Pristupite podacima",
+  "textNote": "Eurostat je statistički ured Europske unije, odgovoran za objavljivanje visokokvalitetnih statistika i pokazatelja na razini cijele Europe koji omogućuju usporedbe između zemalja i regija.",
+  "textDataAccess": "Pristup podacima",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00010/default/table?lang=en",
   "textCountryClick": "Kliknite za više informacija"
 }

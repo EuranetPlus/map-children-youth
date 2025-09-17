@@ -1,13 +1,13 @@
 {
-  "heading": "Bērni un jaunieši visā Eiropā 2022. gadā",
-  "subheading": "Vispārējā iedzīvotāju procentuālā daļa Eiropas valstīs, kas jaunāki par 24 gadiem. ES-27 vidējais rādītājs: 25,5%",
-  "legend1": "Nav pieejami dati",
+  "heading": "Bērni un jaunieši visā Eiropā 2022. gadā",
+  "subheading": "Kopējais iedzīvotāju īpatsvars Eiropas valstīs, kas jaunāki par 24 gadiem. ES-27 vidējais rādītājs: 25,5 %",
+  "legend1": "Dati nav pieejami",
   "tooltip1": "iedzīvotāju",
   "textSourceDescription": "Avots",
   "textSource": "Eurostat",
   "textNoteDescription": "Piezīme",
-  "textNote": "Eurostat ir Eiropas Savienības statistikas birojs, kas atbild par augstas kvalitātes Eiropas mēroga statistikas un rādītāju publicēšanu, kas ļauj salīdzināt valstis un reģionus.",
+  "textNote": "Eurostat ir Eiropas Savienības statistikas birojs, kas ir atbildīgs par augstas kvalitātes Eiropas mēroga statistikas un rādītāju publicēšanu, kas ļauj veikt salīdzinājumus starp valstīm un reģioniem.",
   "textDataAccess": "Piekļūstiet datiem",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00010/default/table?lang=en",
-  "textCountryClick": "Noklikšķiniet, lai iegūtu vairāk informācijas"
+  "textCountryClick": "Noklikšķiniet, lai iegūtu plašāku informāciju"
 }

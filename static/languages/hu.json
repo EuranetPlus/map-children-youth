@@ -1,13 +1,13 @@
 {
   "heading": "Gyermekek és fiatalok Európa-szerte 2022-ben",
-  "subheading": "Az európai országok lakosságának általános százaléka 24 évnél fiatalabb. EU-27 átlaga: 25,5%",
-  "legend1": "Nincs elérhető adat",
+  "subheading": "Az európai országok lakosságának 24 év alatti népességének általános százalékos aránya. EU-27 átlag: 25,5%",
+  "legend1": "Nincsenek elérhető adatok",
   "tooltip1": "a lakosság",
   "textSourceDescription": "Forrás",
   "textSource": "Eurostat",
-  "textNoteDescription": "jegyzet",
-  "textNote": "Az Eurostat az Európai Unió statisztikai hivatala, amely az országok és régiók közötti összehasonlítást lehetővé tevő, Európa-szerte magas színvonalú statisztikák és mutatók közzétételéért felelős.",
+  "textNoteDescription": "Jegyzet",
+  "textNote": "Az Eurostat az Európai Unió statisztikai hivatala, amely felelős az országok és régiók közötti összehasonlítást lehetővé tevő, kiváló minőségű, európai szintű statisztikák és mutatók közzétételéért.",
   "textDataAccess": "Hozzáférés az adatokhoz",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00010/default/table?lang=en",
-  "textCountryClick": "Kattintson további információkért"
+  "textCountryClick": "Kattintson a további információkért"
 }

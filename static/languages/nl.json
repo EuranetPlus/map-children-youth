@@ -1,13 +1,13 @@
 {
-  "heading": "Kinderen en jongeren in heel Europa in 2022",
-  "subheading": "Algemeen percentage van de bevolking in Europese landen jonger dan 24 jaar. EU-27 gemiddelde: 25,5%",
+  "heading": "Kinderen en jongeren in heel Europa in 2025",
+  "subheading": "Het algemene percentage van de bevolking in Europese landen dat jonger is dan 24 jaar. Gemiddelde EU-27: 25,1%",
   "legend1": "Geen gegevens beschikbaar",
   "tooltip1": "van de bevolking",
   "textSourceDescription": "Bron",
   "textSource": "Eurostat",
   "textNoteDescription": "Opmerking",
-  "textNote": "Eurostat is het statistische bureau van de Europese Unie. Het is verantwoordelijk voor het publiceren van hoogwaardige statistieken en indicatoren op Europees niveau, die vergelijkingen tussen landen en regio's mogelijk maken.",
+  "textNote": "Eurostat is het statistisch bureau van de Europese Unie en is verantwoordelijk voor de publicatie van hoogwaardige, Europees brede statistieken en indicatoren die vergelijkingen tussen landen en regio's mogelijk maken.",
   "textDataAccess": "Toegang tot de gegevens",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00010/default/table?lang=en",
-  "textCountryClick": "Klik voor meer informatie"
+  "textCountryClick": "Klik hier voor meer informatie"
 }

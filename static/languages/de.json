@@ -1,13 +1,13 @@
 {
-  "heading": "Kinder und Jugendliche in ganz Europa im Jahr 2022",
-  "subheading": "Allgemeiner Anteil der Bevölkerung in europäischen Ländern unter 24 Jahren. EU-27-Durchschnitt: 25,5 %",
+  "heading": "Kinder und Jugendliche in ganz Europa im Jahr 2025",
+  "subheading": "Gesamtanteil der Bevölkerung in europäischen Ländern unter 24 Jahren. EU-27-Durchschnitt: 25,1 %",
   "legend1": "Keine Daten verfügbar",
-  "tooltip1": "der Bevölkerung",
+  "tooltip1": "Bevölkerung",
   "textSourceDescription": "Quelle",
   "textSource": "Eurostat",
   "textNoteDescription": "Notiz",
-  "textNote": "Eurostat ist das statistische Amt der Europäischen Union und verantwortlich für die Veröffentlichung hochwertiger europaweiter Statistiken und Indikatoren, die Vergleiche zwischen Ländern und Regionen ermöglichen.",
-  "textDataAccess": "Zugriff auf die Daten",
+  "textNote": "Eurostat ist das statistische Amt der Europäischen Union und verantwortlich für die Veröffentlichung qualitativ hochwertiger europaweiter Statistiken und Indikatoren, die Vergleiche zwischen Ländern und Regionen ermöglichen.",
+  "textDataAccess": "Greifen Sie auf die Daten zu.",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00010/default/table?lang=en",
-  "textCountryClick": "Klicken Sie hier für weitere Informationen"
+  "textCountryClick": "Klicken Sie hier für weitere Informationen."
 }

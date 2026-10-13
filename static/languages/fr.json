@@ -1,13 +1,13 @@
 {
-  "heading": "Enfants et jeunes à travers l'Europe en 2022",
-  "subheading": "Pourcentage général de la population européenne âgée de moins de 24 ans. Moyenne UE-27 : 25,5 %.",
+  "heading": "Les enfants et les jeunes en Europe en 2025",
+  "subheading": "Pourcentage de la population des pays européens âgée de moins de 24 ans. Moyenne UE-27 : 25,1 %",
   "legend1": "Aucune donnée disponible",
   "tooltip1": "de la population",
   "textSourceDescription": "Source",
   "textSource": "Eurostat",
   "textNoteDescription": "Note",
-  "textNote": "Eurostat est l'office statistique de l'Union européenne, chargé de publier des statistiques et des indicateurs de haute qualité à l'échelle européenne qui permettent des comparaisons entre les pays et les régions.",
+  "textNote": "Eurostat est l'office statistique de l'Union européenne, chargé de publier des statistiques et des indicateurs de haute qualité à l'échelle européenne permettant des comparaisons entre pays et régions.",
   "textDataAccess": "Accéder aux données",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00010/default/table?lang=fr",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00010/default/table?lang=en",
   "textCountryClick": "Cliquez pour plus d'informations"
 }
